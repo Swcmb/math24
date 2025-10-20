@@ -14,9 +14,12 @@
     "vue": "^3.4.38"
   },
   "devDependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@types/web-bluetooth": "^0.0.21",
     "@vitejs/plugin-vue": "^5.1.2",
     "typescript": "^5.5.4",
     "vite": "^5.4.8",
+    "vue-router": "^4.6.3",
     "vue-tsc": "^2.0.29"
   }
 }

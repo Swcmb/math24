@@ -1,0 +1,1 @@
+{"root":["./src/app.vue","./src/main.ts","./src/components/expression-editor.vue","./src/components/number-cards.vue","./src/components/result-panel.vue","./src/utils/eval24.ts","./src/utils/random.ts","./env.d.ts"],"version":"5.9.3"}
