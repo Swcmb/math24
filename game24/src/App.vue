@@ -2,7 +2,7 @@
   <div class="wrapper">
     <el-container>
       <el-header class="header">
-        <div class="brand">24点游戏</div>
+        <div class="brand">加减乘除</div>
       </el-header>
       <el-main>
         <div class="center" :class="{ 'success-glow': isTwentyFour(evalState.value) }">
