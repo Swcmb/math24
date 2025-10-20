@@ -1,0 +1,28 @@
+# 依赖
+node_modules/
+game24/node_modules/
+
+# 构建产物
+dist/
+game24/dist/
+
+# 日志
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 环境变量文件
+.env
+.env.*
+!.env.example
+
+# 本地覆盖配置
+*.local
